@@ -56,3 +56,6 @@ persist.sys.thermal.config u:object_r:thermal_normal_prop:s0
 
 # Touchfeature
 ro.vendor.touchfeature.type              u:object_r:vendor_touchfeature_prop:s0
+
+# Dirac
+persist.audio.dirac.                u:object_r:dirac_prop:s0
