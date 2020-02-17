@@ -586,4 +586,11 @@
     <bool name="config_proximityCheckOnWakeEnabledByDefault">true</bool>
 
     <integer name="config_deviceLightCapabilities">232</integer>
+
+    <integer-array name="config_availableColorModes">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
 </resources>
