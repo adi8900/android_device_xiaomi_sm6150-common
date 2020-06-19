@@ -30,4 +30,5 @@ allow devicesettings_app {
   cgroup
   sysfs_leds
   sysfs_thermal
+  sysfs_graphics
 }:file rw_file_perms;
