@@ -366,9 +366,9 @@ vendor/lib/libpvr.so|76560c767927a164b41a211c269200fb3e4c02d0
 vendor/lib64/libsdedrm.so|022e763eac905e531112f39171530f836a85be77
 vendor/lib/libsdedrm.so|18568c442b560f5999f9da0227f642af500f4233
 
-# Graphics (HDR) - from LA.UM.8.9.r1-08400-SM6xx.0
-vendor/lib64/libhdr_tm.so|a04a0abf52d940ddb4916e74d48cc2b16526e355
-vendor/lib/libhdr_tm.so|e8742dd5c205c8beed3f32b1c318980517a7ae88
+# Graphics (HDR) - from LA.UM.8.9.r1-04400-SM6xx.0
+vendor/lib64/libhdr_tm.so|4f08d65045893e0ec2b351581d6378f2e187ca82
+vendor/lib/libhdr_tm.so|43329dcdd1f390b12fbab1094ea8af46548aeb36
 
 # Graphics (Renderscript) - from LA.UM.8.9.r1-08400-SM6xx.0
 vendor/lib64/libRSDriver_adreno.so|76246cf21e9abfdf87e27e825cfe20047be30a16
