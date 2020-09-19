@@ -210,6 +210,11 @@ include device/qcom/sepolicy_vndr/SEPolicy.mk
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += $(COMMON_PATH)/sepolicy/private
 BOARD_PLAT_PUBLIC_SEPOLICY_DIR += $(COMMON_PATH)/sepolicy/public
 BOARD_SEPOLICY_DIRS += $(COMMON_PATH)/sepolicy/vendor
+BOARD_SEPOLICY_M4DEFS += \
+    wcnss_service_exec=vendor_wcnss_service_exec \
+    sysfs_ssr=vendor_sysfs_ssr \
+    public_vendor_default_prop=vendor_public_vendor_default_prop \
+    sensors_prop=vendor_sensors_prop
 
 # WiFi
 BOARD_HOSTAPD_DRIVER := NL80211
