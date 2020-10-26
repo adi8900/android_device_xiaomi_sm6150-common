@@ -1,4 +1,6 @@
-hal_attribute_lineage(mlipay)
+hal_attribute_derp(displayfeature)
+
+hal_attribute(mlipay)
 
 hal_attribute_lineage(motor)
 
